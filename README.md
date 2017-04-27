@@ -1,6 +1,6 @@
 # npmtest-js2coffee
 
-#### test coverage for  [js2coffee (v2.2.0)](http://js2.coffee)  [![npm package](https://img.shields.io/npm/v/npmtest-js2coffee.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-js2coffee) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-js2coffee.svg)](https://travis-ci.org/npmtest/node-npmtest-js2coffee)
+#### basic test coverage for  [js2coffee (v2.2.0)](http://js2.coffee)  [![npm package](https://img.shields.io/npm/v/npmtest-js2coffee.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-js2coffee) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-js2coffee.svg)](https://travis-ci.org/npmtest/node-npmtest-js2coffee)
 
 #### JavaScript to CoffeeScript compiler
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-js2coffee/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-js2coffee/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-js2coffee/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-js2coffee/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-js2coffee/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-js2coffee/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-js2coffee/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-js2coffee/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-js2coffee/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-js2coffee/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-js2coffee/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-js2coffee/build/coverage.html/index.html)
 
